@@ -1,6 +1,7 @@
 {
   "name": "phaseluna",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": "tremho/phaseluna",
   "description": "Computesi lunar phase for a given date",
   "main": "phaseluna.js",
   "scripts": {
