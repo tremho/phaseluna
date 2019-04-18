@@ -1,0 +1,21 @@
+{
+  "name": "phaseluna",
+  "version": "1.0.1",
+  "description": "Computesi lunar phase for a given date",
+  "main": "phaseluna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "Keywords": [
+    "moon",
+    "lunar",
+    "phase",
+    "calendar",
+    "astronomy",
+    "ephemera",
+    "example",
+    "tremho"
+  ]
+}
